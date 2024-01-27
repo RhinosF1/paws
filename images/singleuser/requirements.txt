@@ -45,3 +45,4 @@ rpy2
 # Web dev stuff
 flask
 fastapi
+cryptography>=42.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
