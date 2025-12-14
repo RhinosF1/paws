@@ -45,3 +45,4 @@ rpy2
 # Web dev stuff
 flask
 fastapi
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
